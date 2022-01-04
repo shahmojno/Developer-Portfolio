@@ -18,6 +18,8 @@ h2{
 .fexible-container{
     display: flex;
     margin-bottom: 100px;
+    text-align:justify;
+    
 }
 
 .half-width{
